@@ -2321,3 +2321,722 @@ PLUGINS:
 	[FE: 68] Lux - JK's White Phial patch.esp
 	[FE: 69] Lux - Saints and Seducers patch.esp
 	[FE: 6A] Lux - Wintersun patch.esp
+
+
+
+
+[2023-09-13 02:49:02.678] [Global] [info] [32380] [main.cpp:58] Log Level: trace
+[2023-09-13 02:49:02.678] [Global] [info] [32380] [main.cpp:197] NOTE: This is not a crashlog. Crashlogs have the name crash-[TIMESTAMP].log
+[2023-09-13 02:49:02.678] [Global] [info] [32380] [main.cpp:198] CrashLogger 1.10.0.0 Sep  5 2023 00:40:02 is loading...
+[2023-09-13 02:49:02.678] [Global] [info] [32380] [CrashHandler.cpp:565] installed crash handlers
+[2023-09-13 02:49:02.678] [Global] [info] [32380] [main.cpp:205] CrashLogger has finished loading.
+[2023-09-13 02:50:52.623] [Global] [info] [32724] [PdbHandler.cpp:178] Symcache not found at c:\symcache
+[2023-09-13 02:50:52.627] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB5A with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.647] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB5A	Unable to locate PDB
+[2023-09-13 02:50:52.691] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB5A with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.691] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB5A	Unable to locate PDB
+[2023-09-13 02:50:52.691] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04611EC with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.692] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04611EC	Unable to locate PDB
+[2023-09-13 02:50:52.692] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04600A4 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.692] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04600A4	Unable to locate PDB
+[2023-09-13 02:50:52.692] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0397F6D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.693] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0397F6D	Unable to locate PDB
+[2023-09-13 02:50:52.693] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0394861 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.693] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0394861	Unable to locate PDB
+[2023-09-13 02:50:52.693] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0390875 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.694] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0390875	Unable to locate PDB
+[2023-09-13 02:50:52.694] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+038D29D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.694] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+038D29D	Unable to locate PDB
+[2023-09-13 02:50:52.694] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EF95C with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.695] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EF95C	Unable to locate PDB
+[2023-09-13 02:50:52.695] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EEFA3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.695] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EEFA3	Unable to locate PDB
+[2023-09-13 02:50:52.695] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.696] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.696] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.696] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.696] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.697] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.697] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04ECB11 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.697] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04ECB11	Unable to locate PDB
+[2023-09-13 02:50:52.697] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2DE0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.698] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2DE0	Unable to locate PDB
+[2023-09-13 02:50:52.698] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2A45 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.698] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2A45	Unable to locate PDB
+[2023-09-13 02:50:52.698] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0678A56 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.699] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0678A56	Unable to locate PDB
+[2023-09-13 02:50:52.699] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6C628 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.699] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6C628	Unable to locate PDB
+[2023-09-13 02:50:52.699] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6CBF1 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.699] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6CBF1	Unable to locate PDB
+[2023-09-13 02:50:52.700] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6AF7A with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.700] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6AF7A	Unable to locate PDB
+[2023-09-13 02:50:52.700] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C45E4D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.700] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C45E4D	Unable to locate PDB
+[2023-09-13 02:50:52.701] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/System32/KERNEL32.DLL+00126AD with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.701] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/System32/KERNEL32.DLL+00126AD	Unable to locate PDB
+[2023-09-13 02:50:52.701] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/SYSTEM32/ntdll.dll+005AA68 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.702] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/SYSTEM32/ntdll.dll+005AA68	Unable to locate PDB
+[2023-09-13 02:50:52.703] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.703] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+02EDB20	Unable to locate PDB
+[2023-09-13 02:50:52.703] [Global] [info] [34560] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.703] [Global] [info] [34560] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.703] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBGSListForm@@
+[2023-09-13 02:50:52.704] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBGSListForm@@
+[2023-09-13 02:50:52.704] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.704] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.736] [Global] [info] [32724] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBGSListForm@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBGSListForm@@
+[2023-09-13 02:50:52.736] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.736] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.736] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.736] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSRefAlias*)	.?AVBGSRefAlias@@
+[2023-09-13 02:50:52.736] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSRefAlias*)	.?AVBGSBaseAlias@@
+[2023-09-13 02:50:52.736] [Global] [info] [26984] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AVIFuncCallQuery@Internal@BSScript@@
+[2023-09-13 02:50:52.736] [Global] [info] [26984] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.736] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(TESObjectCELL*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbBehaviorGraph@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbGenerator@@
+[2023-09-13 02:50:52.736] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBGSListForm@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbBindable@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [32404] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AVIFuncCallQuery@Internal@BSScript@@
+[2023-09-13 02:50:52.736] [Global] [info] [32404] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.736] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(hkbStateMachine*)	.?AVhkbStateMachine@@
+[2023-09-13 02:50:52.736] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSTriShape@@
+[2023-09-13 02:50:52.736] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSGeometry@@
+[2023-09-13 02:50:52.736] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [32724] [Introspection.cpp:1504] Found unhandled type:	(BGSListForm*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActor@@
+[2023-09-13 02:50:52.736] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSTriShape@@
+[2023-09-13 02:50:52.736] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSGeometry@@
+[2023-09-13 02:50:52.736] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AVIFuncCallQuery@Internal@BSScript@@
+[2023-09-13 02:50:52.736] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(BSScript::Internal::CodeTasklet*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.736] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.736] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.737] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.737] [Global] [info] [34768] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.736] [Global] [info] [29936] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbBehaviorGraph@@
+[2023-09-13 02:50:52.736] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbManualSelectorGenerator@@
+[2023-09-13 02:50:52.737] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbGenerator@@
+[2023-09-13 02:50:52.736] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(TESObjectCELL*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbGenerator@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkbBindable@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(hkbBehaviorGraph*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.736] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbManualSelectorGenerator@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbGenerator@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbBindable@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C614E2 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.736] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(hkbStateMachine*)	.?AVhkbGenerator@@
+[2023-09-13 02:50:52.736] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(TESObjectREFR*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(hkbStateMachine*)	.?AVhkbBindable@@
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [34404] [Introspection.cpp:1504] Found unhandled type:	(BGSRefAlias*)	.?AVBGSRefAlias@@
+[2023-09-13 02:50:52.737] [Global] [info] [34404] [Introspection.cpp:1504] Found unhandled type:	(BGSRefAlias*)	.?AVBGSBaseAlias@@
+[2023-09-13 02:50:52.737] [Global] [info] [33280] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkbBindable@@
+[2023-09-13 02:50:52.737] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34548] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(hkbManualSelectorGenerator*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(hkbStateMachine*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(hkbStateMachine*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C614E2	Unable to locate PDB
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)	.?AV?$BSTCommonLLMessageQueue@UFunctionMessage@Internal@BSScript@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActor@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerQuestNode@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.737] [Global] [info] [31288] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FB48 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.737] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActor@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerQuestFinder@@
+[2023-09-13 02:50:52.737] [Global] [info] [32688] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerTreeVisitor@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [23216] [Introspection.cpp:1504] Found unhandled type:	(TESQuest*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorState@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.737] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)	.?AV?$BSTCommonMessageQueue@UFunctionMessage@Internal@BSScript@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.737] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.737] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [26996] [Introspection.cpp:1504] Found unhandled type:	(BSTCommonLLMessageQueue<BSScript::Internal::FunctionMessage>*)	.?AV?$BSTMessageQueue@UFunctionMessage@Internal@BSScript@@@@
+[2023-09-13 02:50:52.737] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorCellEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorDeathEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UPositionPlayerEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuOpenCloseEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuModeChangeEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34524] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A383A with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.738] [Global] [info] [31288] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FB48	Unable to locate PDB
+[2023-09-13 02:50:52.737] [Global] [info] [31884] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerQuestNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [31884] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.738] [Global] [info] [31884] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.738] [Global] [info] [31884] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorState@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.737] [Global] [info] [33644] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSTriShape@@
+[2023-09-13 02:50:52.738] [Global] [info] [33644] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSGeometry@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VUserEventEnabledEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UTESTrackedStatsEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [33644] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiObject@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.738] [Global] [info] [33644] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerQuestFinder@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerTreeVisitor@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AVBGSStoryManager@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDM@VBGSStoryManager@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA00 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorState@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34524] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A383A	Unable to locate PDB
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34532] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04600A4 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorCellEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorDeathEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UPositionPlayerEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuOpenCloseEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuModeChangeEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VUserEventEnabledEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA00	Unable to locate PDB
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UTESTrackedStatsEvent@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerQuestFinder@@
+[2023-09-13 02:50:52.738] [Global] [info] [34556] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerTreeVisitor@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerBranchNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AVBGSStoryManager@@
+[2023-09-13 02:50:52.738] [Global] [info] [29940] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDM@VBGSStoryManager@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [26008] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@
+[2023-09-13 02:50:52.738] [Global] [info] [34532] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04600A4	Unable to locate PDB
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerQuestFinder@@
+[2023-09-13 02:50:52.738] [Global] [info] [34560] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerTreeVisitor@@
+[2023-09-13 02:50:52.738] [Global] [info] [34456] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598	Unable to locate PDB
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F5CA40 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AVBGSStoryManager@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDM@VBGSStoryManager@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerQuestFinder@@
+[2023-09-13 02:50:52.739] [Global] [info] [34456] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerQuestFinder*)	.?AVBGSStoryManagerTreeVisitor@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F5CA40	Unable to locate PDB
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVahkpWorld@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkpWorld@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04611EC with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVahkpWorld@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkpWorld@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.739] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04611EC	Unable to locate PDB
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AVBGSStoryManager@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDM@VBGSStoryManager@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSDMTraits@VBGSStoryManager@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManager*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryManager@@@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerEventNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerBranchNode@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerNodeBase@@
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBGSStoryManagerTreeForm@@
+[2023-09-13 02:50:52.739] [Global] [info] [34544] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FF1570 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.739] [Global] [info] [5640] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryManagerEventNode*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FF1570	Unable to locate PDB
+[2023-09-13 02:50:52.740] [Global] [info] [34552] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA88 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActor@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorState@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorCellEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorDeathEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UPositionPlayerEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuOpenCloseEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuModeChangeEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VUserEventEnabledEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UTESTrackedStatsEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActor@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVActorState@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorCellEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UBGSActorDeathEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSource@UPositionPlayerEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuOpenCloseEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VMenuModeChangeEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@VUserEventEnabledEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34544] [Introspection.cpp:1504] Found unhandled type:	(PlayerCharacter*)	.?AV?$BSTEventSink@UTESTrackedStatsEvent@@@@
+[2023-09-13 02:50:52.740] [Global] [info] [34552] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA88	Unable to locate PDB
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSTriShape@@
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSGeometry@@
+[2023-09-13 02:50:52.740] [Global] [info] [34280] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0394861 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiObject@@
+[2023-09-13 02:50:52.740] [Global] [info] [17392] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.741] [Global] [info] [34280] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0394861	Unable to locate PDB
+[2023-09-13 02:50:52.741] [Global] [info] [34476] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.741] [Global] [info] [34476] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.741] [Global] [info] [30192] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(NiNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(NiNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(NiNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.741] [Global] [info] [30192] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.741] [Global] [info] [34528] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVBSMultiBoundNode@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVBSNiNode@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.742] [Global] [info] [33444] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F5CA40 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSTriShape@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVBSGeometry@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiObject@@
+[2023-09-13 02:50:52.742] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSTriShape*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.742] [Global] [info] [33444] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F5CA40	Unable to locate PDB
+[2023-09-13 02:50:52.742] [Global] [info] [29804] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0397F6D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.742] [Global] [info] [29804] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0397F6D	Unable to locate PDB
+[2023-09-13 02:50:52.742] [Global] [info] [31588] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B9F79D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.743] [Global] [info] [31588] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B9F79D	Unable to locate PDB
+[2023-09-13 02:50:52.743] [Global] [info] [26984] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A3A8C with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.743] [Global] [info] [31588] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AVBSAnimationGraphManager@@
+[2023-09-13 02:50:52.743] [Global] [info] [31588] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [31588] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.743] [Global] [info] [26984] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A3A8C	Unable to locate PDB
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D	Unable to locate PDB
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVbhkCharRigidBodyController@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVbhkCharacterController@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AV?$BSTEventSource@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVhkpCharacterRigidBodyListener@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34584] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(bhkCharRigidBodyController*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActor@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorState@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActor@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBaseFormComponent@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVBSHandleRefObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIAnimationGraphManagerHolder@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVMagicTarget@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorValueOwner@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVActorState@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementState@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AUIMovementInterface@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AV?$BSTEventSink@VbhkCharacterMoveFinishEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34344] [Introspection.cpp:1504] Found unhandled type:	(Character*)	.?AVIPostAnimationChannelUpdateFunctor@@
+[2023-09-13 02:50:52.743] [Global] [info] [34584] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D	Unable to locate PDB
+[2023-09-13 02:50:52.743] [Global] [info] [34584] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AVBSAnimationGraphManager@@
+[2023-09-13 02:50:52.743] [Global] [info] [34584] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AV?$BSTEventSink@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.743] [Global] [info] [34584] [Introspection.cpp:1504] Found unhandled type:	(BSAnimationGraphManager*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.743] [Global] [info] [27660] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FF7860 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.744] [Global] [info] [32404] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+0013911 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.744] [Global] [info] [27660] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FF7860	Unable to locate PDB
+[2023-09-13 02:50:52.744] [Global] [info] [27660] [Introspection.cpp:1504] Found unhandled type:	(hkbFootIkDriver*)	.?AVhkbFootIkDriver@@
+[2023-09-13 02:50:52.744] [Global] [info] [27660] [Introspection.cpp:1504] Found unhandled type:	(hkbFootIkDriver*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.744] [Global] [info] [27660] [Introspection.cpp:1504] Found unhandled type:	(hkbFootIkDriver*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FCFC with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FCFC	Unable to locate PDB
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [Introspection.cpp:1504] Found unhandled type:	(BSLeafAnimNode*)	.?AVBSLeafAnimNode@@
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [Introspection.cpp:1504] Found unhandled type:	(BSLeafAnimNode*)	.?AVBSFadeNode@@
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [Introspection.cpp:1504] Found unhandled type:	(BSLeafAnimNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.744] [Global] [info] [28656] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [Introspection.cpp:1504] Found unhandled type:	(BSLeafAnimNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.744] [Global] [info] [32488] [Introspection.cpp:1504] Found unhandled type:	(BSLeafAnimNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.744] [Global] [info] [28656] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998	Unable to locate PDB
+[2023-09-13 02:50:52.745] [Global] [info] [25836] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.745] [Global] [info] [25836] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598	Unable to locate PDB
+[2023-09-13 02:50:52.745] [Global] [info] [34768] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.745] [Global] [info] [34768] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421	Unable to locate PDB
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6276D	Unable to locate PDB
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVBSFadeNode@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.745] [Global] [info] [34776] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.745] [Global] [info] [34460] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2F9AA20	Unable to locate PDB
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVBSFadeNode@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [34776] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F	Unable to locate PDB
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVBSFadeNode@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BSFadeNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FEE2A0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FEE2A0	Unable to locate PDB
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AVBSIRagdollDriver@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AV?$BSTEventSource@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.746] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B9F79D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.746] [Global] [info] [24832] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AV?$BSTEventSource@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AVBSIRagdollDriver@@
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AUBSIntrusiveRefCounted@@
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AV?$BSTEventSource@VBSTransformDeltaEvent@@@@
+[2023-09-13 02:50:52.746] [Global] [info] [26712] [Introspection.cpp:1504] Found unhandled type:	(BShkbAnimationGraph*)	.?AV?$BSTEventSource@UBSAnimationGraphEvent@@@@
+[2023-09-13 02:50:52.746] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B9F79D	Unable to locate PDB
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+038D29D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+038D29D	Unable to locate PDB
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVahkpWorld@@
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkpWorld@@
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkReferencedObject@@
+[2023-09-13 02:50:52.747] [Global] [info] [30372] [Introspection.cpp:1504] Found unhandled type:	(ahkpWorld*)	.?AVhkBaseObject@@
+[2023-09-13 02:50:52.747] [Global] [info] [33280] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+033CC8F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.747] [Global] [info] [33280] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+033CC8F	Unable to locate PDB
+[2023-09-13 02:50:52.747] [Global] [info] [34404] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A9D4F5 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.747] [Global] [info] [34404] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A9D4F5	Unable to locate PDB
+[2023-09-13 02:50:52.747] [Global] [info] [26680] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.748] [Global] [info] [34548] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FEA3A0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.748] [Global] [info] [34548] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FEA3A0	Unable to locate PDB
+[2023-09-13 02:50:52.748] [Global] [info] [32688] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EEFA3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.748] [Global] [info] [32688] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EEFA3	Unable to locate PDB
+[2023-09-13 02:50:52.748] [Global] [info] [23216] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EF95C with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.748] [Global] [info] [23216] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EF95C	Unable to locate PDB
+[2023-09-13 02:50:52.748] [Global] [info] [18508] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FB7B with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.749] [Global] [info] [18508] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FB7B	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [26996] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.749] [Global] [info] [32404] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+0013911	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [26996] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AVBGSStoryTeller@@
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDM@VBGSStoryTeller@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryTeller@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@@@@@
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSDMTraits@VBGSStoryTeller@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@@@
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@
+[2023-09-13 02:50:52.749] [Global] [info] [26680] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AV?$BSTEventSink@UTESQuestStageItemDoneEvent@@@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A3021 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(ScrapHeap*)	.?AVScrapHeap@@
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(ScrapHeap*)	.?AVIMemoryStore@@
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(ScrapHeap*)	.?AVIMemoryStoreBase@@
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [29936] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13A3021	Unable to locate PDB
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSGeometryListCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVBSCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSGeometryListCullingProcess*)	.?AVNiCullingProcess@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVBSMultiBoundNode@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVBSNiNode@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiNode@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiObject@@
+[2023-09-13 02:50:52.749] [Global] [info] [31288] [Introspection.cpp:1504] Found unhandled type:	(BSMultiBoundNode*)	.?AVNiRefObject@@
+[2023-09-13 02:50:52.749] [Global] [info] [31884] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.750] [Global] [info] [31884] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998	Unable to locate PDB
+[2023-09-13 02:50:52.750] [Global] [info] [33644] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.750] [Global] [info] [33644] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F	Unable to locate PDB
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AVBGSStoryTeller@@
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDM@VBGSStoryTeller@@UBSTSingletonSDMOpStaticBuffer@@@@
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDMBase@U?$BSTSDMTraits@VBGSStoryTeller@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@@@@@
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSDMTraits@VBGSStoryTeller@@U?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@@@
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AU?$BSTSingletonSDMOpStaticBuffer@VBGSStoryTeller@@@@
+[2023-09-13 02:50:52.750] [Global] [info] [34580] [Introspection.cpp:1504] Found unhandled type:	(BGSStoryTeller*)	.?AV?$BSTEventSink@UTESQuestStageItemDoneEvent@@@@
+[2023-09-13 02:50:52.750] [Global] [info] [34524] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A9FC4F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.751] [Global] [info] [34524] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A9FC4F	Unable to locate PDB
+[2023-09-13 02:50:52.751] [Global] [info] [34556] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.751] [Global] [info] [34556] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.751] [Global] [info] [29940] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0AA2D24 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.751] [Global] [info] [29940] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0AA2D24	Unable to locate PDB
+[2023-09-13 02:50:52.751] [Global] [info] [26008] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+07271AF with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.751] [Global] [info] [26008] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+07271AF	Unable to locate PDB
+[2023-09-13 02:50:52.751] [Global] [info] [34532] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0E021C8 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.752] [Global] [info] [34532] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0E021C8	Unable to locate PDB
+[2023-09-13 02:50:52.752] [Global] [info] [34560] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C3E93F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.752] [Global] [info] [34560] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C3E93F	Unable to locate PDB
+[2023-09-13 02:50:52.752] [Global] [info] [34456] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.752] [Global] [info] [34456] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04EECB6	Unable to locate PDB
+[2023-09-13 02:50:52.752] [Global] [info] [28840] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FECE60 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.752] [Global] [info] [28840] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+2FECE60	Unable to locate PDB
+[2023-09-13 02:50:52.753] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVJobThread@BSJobs@@
+[2023-09-13 02:50:52.753] [Global] [info] [28840] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVBSThread@@
+[2023-09-13 02:50:52.753] [Global] [info] [5640] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04ECB11 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.753] [Global] [info] [5640] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04ECB11	Unable to locate PDB
+[2023-09-13 02:50:52.753] [Global] [info] [34552] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+01560EE with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.753] [Global] [info] [34552] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+01560EE	Unable to locate PDB
+[2023-09-13 02:50:52.753] [Global] [info] [34544] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D7F8A8 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.753] [Global] [info] [34544] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D7F8A8	Unable to locate PDB
+[2023-09-13 02:50:52.753] [Global] [info] [17392] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.754] [Global] [info] [17392] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0DA440F	Unable to locate PDB
+[2023-09-13 02:50:52.754] [Global] [info] [34280] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.754] [Global] [info] [34280] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A598	Unable to locate PDB
+[2023-09-13 02:50:52.754] [Global] [info] [34476] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.754] [Global] [info] [34280] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVJobThread@BSJobs@@
+[2023-09-13 02:50:52.754] [Global] [info] [34280] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVBSThread@@
+[2023-09-13 02:50:52.754] [Global] [info] [34476] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CAC998	Unable to locate PDB
+[2023-09-13 02:50:52.754] [Global] [info] [29412] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.755] [Global] [info] [29412] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421	Unable to locate PDB
+[2023-09-13 02:50:52.755] [Global] [info] [30192] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0390875 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.755] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVJobThread@BSJobs@@
+[2023-09-13 02:50:52.755] [Global] [info] [29412] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVBSThread@@
+[2023-09-13 02:50:52.755] [Global] [info] [30192] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0390875	Unable to locate PDB
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B2C4C2 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B2C4C2	Unable to locate PDB
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVJobThread@BSJobs@@
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVBSThread@@
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVJobThread@BSJobs@@
+[2023-09-13 02:50:52.755] [Global] [info] [34528] [Introspection.cpp:1504] Found unhandled type:	(BSJobs::JobThread*)	.?AVBSThread@@
+[2023-09-13 02:50:52.755] [Global] [info] [33444] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/System32/ucrtbase.dll+0038848 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.755] [Global] [info] [29804] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+050E59E with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.756] [Global] [info] [29804] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+050E59E	Unable to locate PDB
+[2023-09-13 02:50:52.756] [Global] [info] [31588] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+064B48B with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.756] [Global] [info] [33444] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/System32/ucrtbase.dll+0038848	Unable to locate PDB
+[2023-09-13 02:50:52.756] [Global] [info] [31588] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+064B48B	Unable to locate PDB
+[2023-09-13 02:50:52.756] [Global] [info] [26984] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+061B381 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.756] [Global] [info] [26984] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+061B381	Unable to locate PDB
+[2023-09-13 02:50:52.756] [Global] [info] [34344] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+064543D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.757] [Global] [info] [34344] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+064543D	Unable to locate PDB
+[2023-09-13 02:50:52.757] [Global] [info] [34584] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A004BE with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.757] [Global] [info] [34584] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0A004BE	Unable to locate PDB
+[2023-09-13 02:50:52.757] [Global] [info] [27660] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B46F0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.757] [Global] [info] [27660] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B46F0	Unable to locate PDB
+[2023-09-13 02:50:52.757] [Global] [info] [32488] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B438C with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.757] [Global] [info] [32488] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B438C	Unable to locate PDB
+[2023-09-13 02:50:52.757] [Global] [info] [28656] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B46F0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.758] [Global] [info] [28656] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B46F0	Unable to locate PDB
+[2023-09-13 02:50:52.758] [Global] [info] [25836] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B24B4E with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.758] [Global] [info] [25836] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B24B4E	Unable to locate PDB
+[2023-09-13 02:50:52.758] [Global] [info] [34768] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C92D3B with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.758] [Global] [info] [34768] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C92D3B	Unable to locate PDB
+[2023-09-13 02:50:52.758] [Global] [info] [34460] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B4326 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.758] [Global] [info] [34460] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+13B4326	Unable to locate PDB
+[2023-09-13 02:50:52.759] [Global] [info] [34776] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.759] [Global] [info] [34776] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C421	Unable to locate PDB
+[2023-09-13 02:50:52.759] [Global] [info] [24832] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B25B63 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.759] [Global] [info] [24832] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B25B63	Unable to locate PDB
+[2023-09-13 02:50:52.759] [Global] [info] [26712] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.759] [Global] [info] [26712] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3	Unable to locate PDB
+[2023-09-13 02:50:52.759] [Global] [info] [32724] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.760] [Global] [info] [32724] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00157C3	Unable to locate PDB
+[2023-09-13 02:50:52.760] [Global] [info] [30372] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1165454 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.760] [Global] [info] [30372] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1165454	Unable to locate PDB
+[2023-09-13 02:50:52.760] [Global] [info] [33280] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.760] [Global] [info] [33280] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644	Unable to locate PDB
+[2023-09-13 02:50:52.760] [Global] [info] [34404] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00383C0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.760] [Global] [info] [34404] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+00383C0	Unable to locate PDB
+[2023-09-13 02:50:52.760] [Global] [info] [34548] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FBFD with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.761] [Global] [info] [34548] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+135FBFD	Unable to locate PDB
+[2023-09-13 02:50:52.761] [Global] [info] [32688] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+0017A16 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.761] [Global] [info] [32688] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/tbbmalloc.dll+0017A16	Unable to locate PDB
+[2023-09-13 02:50:52.761] [Global] [info] [23216] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B23C8E with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.761] [Global] [info] [23216] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0B23C8E	Unable to locate PDB
+[2023-09-13 02:50:52.761] [Global] [info] [18508] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.761] [Global] [info] [18508] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644	Unable to locate PDB
+[2023-09-13 02:50:52.762] [Global] [info] [32404] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2DE0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.762] [Global] [info] [32404] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2DE0	Unable to locate PDB
+[2023-09-13 02:50:52.762] [Global] [info] [26996] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A2B8 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.762] [Global] [info] [26996] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+161A2B8	Unable to locate PDB
+[2023-09-13 02:50:52.762] [Global] [info] [26680] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CB47EC with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.762] [Global] [info] [26680] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0CB47EC	Unable to locate PDB
+[2023-09-13 02:50:52.762] [Global] [info] [29936] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C6E1 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.763] [Global] [info] [29936] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0D9C6E1	Unable to locate PDB
+[2023-09-13 02:50:52.763] [Global] [info] [31288] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.763] [Global] [info] [31288] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644	Unable to locate PDB
+[2023-09-13 02:50:52.763] [Global] [info] [31884] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092640 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.763] [Global] [info] [31884] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092640	Unable to locate PDB
+[2023-09-13 02:50:52.763] [Global] [info] [33644] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092648 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.763] [Global] [info] [33644] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092648	Unable to locate PDB
+[2023-09-13 02:50:52.763] [Global] [info] [34580] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2A45 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.764] [Global] [info] [34580] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+04F2A45	Unable to locate PDB
+[2023-09-13 02:50:52.764] [Global] [info] [34524] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0678A56 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.764] [Global] [info] [34524] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0678A56	Unable to locate PDB
+[2023-09-13 02:50:52.764] [Global] [info] [34556] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+14062CE with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.764] [Global] [info] [34556] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+14062CE	Unable to locate PDB
+[2023-09-13 02:50:52.764] [Global] [info] [29940] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.765] [Global] [info] [29940] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3092644	Unable to locate PDB
+[2023-09-13 02:50:52.765] [Global] [info] [26008] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30950E0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.765] [Global] [info] [26008] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30950E0	Unable to locate PDB
+[2023-09-13 02:50:52.765] [Global] [info] [34532] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6C628 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.765] [Global] [info] [34532] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6C628	Unable to locate PDB
+[2023-09-13 02:50:52.765] [Global] [info] [34560] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30950E0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.765] [Global] [info] [34560] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30950E0	Unable to locate PDB
+[2023-09-13 02:50:52.765] [Global] [info] [34456] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/System32/KERNELBASE.dll+00670CD with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.766] [Global] [info] [28840] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3095090 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.766] [Global] [info] [28840] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3095090	Unable to locate PDB
+[2023-09-13 02:50:52.766] [Global] [info] [34456] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/System32/KERNELBASE.dll+00670CD	Unable to locate PDB
+[2023-09-13 02:50:52.766] [Global] [info] [5640] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30A8300 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.766] [Global] [info] [5640] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30A8300	Unable to locate PDB
+[2023-09-13 02:50:52.766] [Global] [info] [34552] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6CBF1 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.766] [Global] [info] [34552] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6CBF1	Unable to locate PDB
+[2023-09-13 02:50:52.766] [Global] [info] [34544] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/EngineFixes.dll+0015D19 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.767] [Global] [info] [17392] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F56F80 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.767] [Global] [info] [17392] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+1F56F80	Unable to locate PDB
+[2023-09-13 02:50:52.767] [Global] [info] [34280] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6AF7A with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.767] [Global] [info] [34280] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C6AF7A	Unable to locate PDB
+[2023-09-13 02:50:52.767] [Global] [info] [34476] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3095001 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.768] [Global] [info] [34476] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+3095001	Unable to locate PDB
+[2023-09-13 02:50:52.768] [Global] [info] [29412] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C45E4D with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.768] [Global] [info] [29412] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+0C45E4D	Unable to locate PDB
+[2023-09-13 02:50:52.768] [Global] [info] [30192] [PdbHandler.cpp:189] Attempting to find pdb for D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30068F0 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.768] [Global] [info] [30192] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/SkyrimSE.exe+30068F0	Unable to locate PDB
+[2023-09-13 02:50:52.768] [Global] [info] [34528] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/System32/KERNEL32.DLL+00126AD with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.768] [Global] [info] [34528] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/System32/KERNEL32.DLL+00126AD	Unable to locate PDB
+[2023-09-13 02:50:52.768] [Global] [info] [29804] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/SYSTEM32/ntdll.dll+005AA68 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.769] [Global] [info] [29804] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/SYSTEM32/ntdll.dll+005AA68	Unable to locate PDB
+[2023-09-13 02:50:52.769] [Global] [info] [31588] [PdbHandler.cpp:189] Attempting to find pdb for C:/WINDOWS/System32/KERNELBASE.dll+015BD30 with path Data/SKSE/Plugins
+[2023-09-13 02:50:52.769] [Global] [info] [31588] [PdbHandler.cpp:193] Failed to open pdb for dll C:/WINDOWS/System32/KERNELBASE.dll+015BD30	Unable to locate PDB
+[2023-09-13 02:50:52.784] [Global] [info] [34544] [PdbHandler.cpp:193] Failed to open pdb for dll D:/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/EngineFixes.dll+0015D19	Unable to locate PDB
+
